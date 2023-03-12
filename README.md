@@ -1,0 +1,1 @@
+This project is a restaurant Django application with login, menu and table booking API's.
