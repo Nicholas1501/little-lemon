@@ -1,2 +1,3 @@
 This project is a restaurant Django application with login, menu and table booking API's.
-To see the progress made untill know, clone this repository, initialize the django server and access the /restaurant path.
+Usage: Clone the repository and start the django server. After opening the application on your web browser, you can test the menu API by clicking on Menu.
+
